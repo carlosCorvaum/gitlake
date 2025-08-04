@@ -22,14 +22,14 @@ git clone https://github.com/carloscorvaum/gitlake.git
 cd gitlake
 pip install .
 
-🧠 Funcionalidades principais
-📁 Gerenciamento de coleções de DataFrames diretamente no GitHub
-💾 Suporte a formatos: csv, json, parquet
-✍️ Modos de escrita: overwrite, append
-🕒 Controle de metadados: created_at, updated_at
-🔐 Controle de versionamento Git
-🗑️ Exclusão lógica e física de coleções
-🔄 Totalmente baseado em GitHub como backend remoto
+🧠 Funcionalidades principais <br>
+📁 Gerenciamento de coleções de DataFrames diretamente no GitHub <br>
+💾 Suporte a formatos: csv, json, parquet <br>
+✍️ Modos de escrita: overwrite, append <br>
+🕒 Controle de metadados: created_at, updated_at <br>
+🔐 Controle de versionamento Git <br>
+🗑️ Exclusão lógica e física de coleções <br>
+🔄 Totalmente baseado em GitHub como backend remoto <br>
 
 
 
