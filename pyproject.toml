@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gitlake"
+version = "0.1.0"
+description = "Framework para usar repositorios git como data-lake"
+authors = [{name = "Carlos Corvaum", email = "carloscorvaum@icloud.com"}]
+license = {text = "MIT"}  # SPDX expression simples
+readme = "README.md"
+requires-python = ">=3.9"
+keywords = ["data-lake", "github", "git", "data", "data-analytics", "data-engineer", "engenharia-de-dados", "gitlake"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+dependencies = [
+    "requests>=2.30.0",
+    "pandas>=2.0.0",
+    "pyarrow>=21.0.0",
+]
