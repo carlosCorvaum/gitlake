@@ -46,12 +46,12 @@ pip install gitlake
 
 
 📁 Estrutura esperada
-.
-├── metadata/
-│   └── collections_registry.json     # Registro de todas as coleções
-└── data/
-    └── minha_colecao/
-        └── minha_colecao.csv         # Dados da coleção
+. <br>
+├── metadata/  <br>
+│   └── collections_registry.json     <br> # Registro de todas as coleções
+└── data/     <br>
+    └── minha_colecao/     <br>
+        └── minha_colecao.csv            <br>  # Dados da coleção
 
 🔐 Autenticação
 Você precisa de um GitHub Personal Access Token (PAT) com permissão para ler e escrever no repositório desejado.
