@@ -32,8 +32,6 @@ pip install .
 🗑️ Exclusão lógica e física de coleções <br>
 🔄 Totalmente baseado em GitHub como backend remoto <br>
 
-
-
 ---
 
 ## 📦 Requisitos
@@ -45,6 +43,7 @@ Instalados automaticamente via:
 
 pip install gitlake
 
+---
 
 📁 Estrutura esperada
 . <br>
@@ -54,6 +53,8 @@ pip install gitlake
 ..   └── minha_colecao/     <br>
 .. ..            └── minha_colecao.csv          # Dados da coleção  <br>
 
+---
+
 🔐 Autenticação
 Você precisa de um GitHub Personal Access Token (PAT) com permissão para ler e escrever no repositório desejado.
 
@@ -62,6 +63,7 @@ https://github.com/settings/tokens
 
 Use esse token com segurança. Para repositórios privados, ele é obrigatório.
 
+---
 
 🧪 **Casos de uso
 
