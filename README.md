@@ -18,9 +18,11 @@ pip install gitlake
 
 Ou instalando manualmente:
 
+``bash
 git clone https://github.com/carloscorvaum/gitlake.git
 cd gitlake
 pip install .
+``
 
 ## 🧠 Funcionalidades principais <br>
 
@@ -35,10 +37,10 @@ pip install .
 ---
 
 ## 📦 Requisitos
-Python 3.9+ <br>
-pandas <br>
-requests <br>
-pyarrow <br>
+- Python 3.9+ <br>
+- pandas <br>
+- requests <br>
+- pyarrow <br>
 
 Instalados automaticamente via:
 ``bash
