@@ -14,6 +14,7 @@ Via PyPI (em breve):
 ``pip install gitlake``
 
 Ou instalando manualmente:
+
 ``git clone https://github.com/carloscorvaum/gitlake.git``
 <br>
 ``cd gitlake``
