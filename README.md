@@ -19,8 +19,8 @@ pip install gitlake
 Ou instalando manualmente:
 
 ``bash
-git clone https://github.com/carloscorvaum/gitlake.git
-cd gitlake
+git clone https://github.com/carloscorvaum/gitlake.git \n
+cd gitlake /n
 pip install .
 ``
 
