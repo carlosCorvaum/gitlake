@@ -45,7 +45,8 @@ Instalados automaticamente via:
 
 ---
 
-📁 Estrutura recomendada
+## 📁 Estrutura do gitlake recomendada
+
 ```
 .
 ├── metadata/
@@ -61,9 +62,9 @@ Instalados automaticamente via:
 
 ---
 
-🔐 Autenticação
-Você precisa de um GitHub Personal Access Token (PAT) com permissão para ler e escrever no repositório desejado.
+##🔐 Autenticação
 
+Você precisa de um GitHub Personal Access Token (PAT) com permissão para ler e escrever no repositório desejado.
 Gere um token aqui:
 https://github.com/settings/tokens
 
@@ -71,7 +72,7 @@ Use esse token com segurança. Para repositórios privados, ele é obrigatório.
 
 ---
 
-🧪 **Casos de uso
+## 🧪 Casos de uso
 
 - Publicar datasets com versionamento
 - Salvar resultados de ETLs diretamente no GitHub
