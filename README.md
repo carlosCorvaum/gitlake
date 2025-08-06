@@ -11,13 +11,9 @@ Ideal para projetos de dados, pipelines, protótipos de machine learning e exper
 ## 🚀 Instalação
 
 Via PyPI (em breve):
-
-``bash
-pip install gitlake
-``
+``pip install gitlake``
 
 Ou instalando manualmente:
-
 ``git clone https://github.com/carloscorvaum/gitlake.git``
 <br>
 ``cd gitlake``
@@ -37,15 +33,14 @@ Ou instalando manualmente:
 ---
 
 ## 📦 Requisitos
+
 - Python 3.9+ <br>
 - pandas <br>
 - requests <br>
 - pyarrow <br>
 
 Instalados automaticamente via:
-``bash
-pip install gitlake
-``
+``pip install gitlake``
 
 ---
 
