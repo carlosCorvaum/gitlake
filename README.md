@@ -62,7 +62,7 @@ Instalados automaticamente via:
 
 ---
 
-##🔐 Autenticação
+## 🔐 Autenticação
 
 Você precisa de um GitHub Personal Access Token (PAT) com permissão para ler e escrever no repositório desejado.
 Gere um token aqui:
