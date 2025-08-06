@@ -56,9 +56,9 @@ pip install gitlake
     ├── raw/
     │   └── raw_zone.parquet           # Dados da coleção
     ├── bronze/
-    │   └── bronze.parquet             # Dados da coleção
+    │   └── bronze.parquet
     └── silver/
-        └── silver.parquet            # Dados da coleção
+        └── silver.parquet
 ```
 
 ---
