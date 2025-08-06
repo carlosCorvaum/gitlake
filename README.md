@@ -59,6 +59,8 @@ pip install gitlake
     └── silver/
         └── silver.parquet            # Dados da coleção
 
+---
+
 🔐 Autenticação
 Você precisa de um GitHub Personal Access Token (PAT) com permissão para ler e escrever no repositório desejado.
 
