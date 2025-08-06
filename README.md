@@ -53,7 +53,7 @@ Instalados automaticamente via:
 │   └── collections_registry.json      # Registro de todas as coleções
 └── data/
     ├── raw/
-    │   └── raw_zone.parquet           # Dados da coleção
+    │   └── raw.parquet           # Dados da coleção
     ├── bronze/
     │   └── bronze.parquet
     └── silver/
