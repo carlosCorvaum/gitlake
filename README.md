@@ -48,6 +48,7 @@ pip install gitlake
 ---
 
 📁 Estrutura recomendada
+```
 .
 ├── metadata/
 │   └── collections_registry.json      # Registro de todas as coleções
@@ -58,6 +59,7 @@ pip install gitlake
     │   └── bronze.parquet             # Dados da coleção
     └── silver/
         └── silver.parquet            # Dados da coleção
+```
 
 ---
 
