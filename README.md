@@ -23,9 +23,11 @@ git clone https://github.com/carloscorvaum/gitlake.git \n
 cd gitlake 
 pip install 
 ``
+<br>
 ``bash
 git clone https://github.com/carloscorvaum/gitlake.git \n
 ``
+<br>
 ``bash
 pip install 
 ``
