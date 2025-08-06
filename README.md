@@ -20,7 +20,7 @@ Ou instalando manualmente:
 
 ``git clone https://github.com/carloscorvaum/gitlake.git``
 <br>
-``git clone https://github.com/carloscorvaum/gitlake.git``
+``cd gitlake``
 <br>
 ``pip install``
 
