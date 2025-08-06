@@ -35,7 +35,7 @@ Ou instalando manualmente:
 
 ## 📦 Requisitos
 
-- Python 3.9+ <br>
+- python 3.9+ <br>
 - pandas <br>
 - requests <br>
 - pyarrow <br>
