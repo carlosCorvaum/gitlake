@@ -1,10 +1,10 @@
 # 🐙 GitLake
 
-> Um mini data-lake versionado, leve e open-source, usando apenas **GitHub + pandas + requests**
+> Um mini data-lake versionado, leve e open-source, usando **GitHub + pandas + requests**
 
 O **GitLake** é um framework simples e poderoso que permite salvar, versionar e gerenciar **coleções de dados** diretamente em repositórios do GitHub.
 
-Ideal para projetos de dados, pipelines, protótipos de machine learning e experimentos que precisam de um **repositório remoto e versionado**, sem a complexidade de uma infraestrutura em nuvem.
+Ideal para projetos de dados, pipelines, protótipos de machine learning e experimentos que precisam de um **repositório remoto e versionado**, sem a complexidade e o custo de uma infraestrutura em nuvem.
 
 ---
 
@@ -35,25 +35,29 @@ pip install .
 ---
 
 ## 📦 Requisitos
-Python 3.9+
-pandas
-requests
-pyarrow
+Python 3.9+ <br>
+pandas <br>
+requests <br>
+pyarrow <br>
+
 Instalados automaticamente via:
-
+``bash
 pip install gitlake
+``
 
 ---
 
-📁 Estrutura esperada
-. <br>
-├── metadata/  <br>
-│   └── collections_registry.json       # Registro de todas as coleções  <br>
-└── data/     <br>
-..   └── minha_colecao/     <br>
-.. ..            └── minha_colecao.csv          # Dados da coleção  <br>
-
----
+📁 Estrutura recomendada
+.
+├── metadata/
+│   └── collections_registry.json      # Registro de todas as coleções
+└── data/
+    ├── raw/
+    │   └── raw_zone.parquet           # Dados da coleção
+    ├── bronze/
+    │   └── bronze.parquet             # Dados da coleção
+    └── silver/
+        └── silver.parquet            # Dados da coleção
 
 🔐 Autenticação
 Você precisa de um GitHub Personal Access Token (PAT) com permissão para ler e escrever no repositório desejado.
