@@ -20,8 +20,14 @@ Ou instalando manualmente:
 
 ``bash
 git clone https://github.com/carloscorvaum/gitlake.git \n
-cd gitlake /n
-pip install .
+cd gitlake 
+pip install 
+``
+``bash
+git clone https://github.com/carloscorvaum/gitlake.git \n
+``
+``bash
+pip install 
 ``
 
 ## 🧠 Funcionalidades principais <br>
