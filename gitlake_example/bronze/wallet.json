@@ -1,264 +1,216 @@
-{"Date":1751932800000,"Open":37.1413473826,"High":37.3012669181,"Low":36.8814795673,"Close":37.1213569641,"Volume":20899600.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1752019200000,"Open":37.0613882802,"High":37.0713815827,"Low":36.2417963989,"Close":36.3517417908,"Volume":15624400.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1752105600000,"Open":35.8819788283,"High":35.8819788283,"Low":35.2223103173,"Close":35.2323036194,"Volume":38419300.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1752192000000,"Open":35.1323547144,"High":35.1823288497,"Low":34.7125635898,"Close":34.9424476624,"Volume":41882800.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1752451200000,"Open":34.9124643403,"High":35.012412612,"Low":34.4926732109,"Close":34.8824806213,"Volume":25888400.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1752537600000,"Open":34.8824836338,"High":35.2023227063,"Low":34.6725861446,"Close":35.0024223328,"Volume":26559500.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1752624000000,"Open":35.0723844902,"High":35.2822781522,"Low":34.8624908281,"Close":35.1723327637,"Volume":26849800.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1752710400000,"Open":35.1923222344,"High":35.8220070164,"Low":35.1723318177,"Close":35.7020683289,"Volume":24842500.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1752796800000,"Open":35.4022176449,"High":35.7020700978,"Low":34.9724370089,"Close":35.0523948669,"Volume":31288500.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1753056000000,"Open":35.032404274,"High":35.5621408088,"Low":34.9924234388,"Close":35.4621887207,"Volume":11994700.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1753142400000,"Open":35.4821784973,"High":35.7220596915,"Low":34.9224582526,"Close":34.9824295044,"Volume":22650800.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1753228800000,"Open":34.9424498905,"High":35.5121634573,"Low":34.8425016136,"Close":35.3722343445,"Volume":12885400.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1753315200000,"Open":35.2522940197,"High":35.2522940197,"Low":34.8325028877,"Close":35.0424003601,"Volume":11126300.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1753401600000,"Open":35.0124156372,"High":35.4721876401,"Low":35.0124156372,"Close":35.192325592,"Volume":17978700.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1753660800000,"Open":35.2622887049,"High":35.3022695405,"Low":34.1328586945,"Close":34.4526977539,"Volume":17329500.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1753747200000,"Open":34.4227114263,"High":34.8425025895,"Low":34.352746868,"Close":34.65259552,"Volume":16170700.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1753833600000,"Open":34.4926746094,"High":35.242298116,"Low":34.2927780578,"Close":35.0523948669,"Volume":18962900.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1753920000000,"Open":34.6625906646,"High":35.2023204953,"Low":34.6226098298,"Close":35.1423492432,"Volume":21361000.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1754006400000,"Open":35.5999984741,"High":35.7599983215,"Low":34.7400016785,"Close":34.9300003052,"Volume":16018100.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1754265600000,"Open":35.4399986267,"High":35.5600013733,"Low":35.0299987793,"Close":35.2999992371,"Volume":16922400.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1754352000000,"Open":35.2200012207,"High":35.9300003052,"Low":35.0600013733,"Close":35.6899986267,"Volume":48243500.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1754438400000,"Open":36.2900009155,"High":37.1500015259,"Low":36.0999984741,"Close":36.1399993896,"Volume":39958600.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1754524800000,"Open":36.2400016785,"High":37.0099983215,"Low":36.1100006104,"Close":36.7799987793,"Volume":26104200.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1754611200000,"Open":36.7900009155,"High":37.1500015259,"Low":36.75,"Close":37.0299987793,"Volume":17795400.0,"Ticker":"ITUB4.SA","Adj Close":null}
-{"Date":1751932800000,"Open":22.0599994659,"High":22.2600002289,"Low":22.0,"Close":22.0,"Volume":19468700.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1752019200000,"Open":22.0100002289,"High":22.0499992371,"Low":21.3899993896,"Close":21.4500007629,"Volume":30185400.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1752105600000,"Open":21.2000007629,"High":21.5300006866,"Low":21.1599998474,"Close":21.2099990845,"Volume":27565700.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1752192000000,"Open":21.1800003052,"High":21.2000007629,"Low":20.8199996948,"Close":21.1399993896,"Volume":26044900.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1752451200000,"Open":21.1200008392,"High":21.1299991608,"Low":20.6200008392,"Close":20.6800003052,"Volume":28395000.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1752537600000,"Open":20.75,"High":21.0599994659,"Low":20.7099990845,"Close":20.8999996185,"Volume":30999200.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1752624000000,"Open":20.9899997711,"High":20.9899997711,"Low":20.1700000763,"Close":20.8799991608,"Volume":55147900.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1752710400000,"Open":20.8400001526,"High":20.8999996185,"Low":20.5799999237,"Close":20.7399997711,"Volume":28673400.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1752796800000,"Open":20.6000003815,"High":20.8199996948,"Low":20.2000007629,"Close":20.2600002289,"Volume":42591900.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1753056000000,"Open":20.3600006104,"High":20.4099998474,"Low":19.8600006104,"Close":19.8600006104,"Volume":42352600.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1753142400000,"Open":19.9899997711,"High":20.1800003052,"Low":19.8700008392,"Close":19.8899993896,"Volume":24707100.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1753228800000,"Open":19.9500007629,"High":20.4200000763,"Low":19.8700008392,"Close":20.2099990845,"Volume":35932600.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1753315200000,"Open":20.1900005341,"High":20.2299995422,"Low":19.8999996185,"Close":20.0699996948,"Volume":44775000.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1753401600000,"Open":20.1900005341,"High":20.4699993134,"Low":20.1299991608,"Close":20.2399997711,"Volume":38899700.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1753660800000,"Open":20.2600002289,"High":20.3600006104,"Low":19.9400005341,"Close":19.9400005341,"Volume":24985300.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1753747200000,"Open":20.0300006866,"High":20.0599994659,"Low":19.8799991608,"Close":19.9500007629,"Volume":37210200.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1753833600000,"Open":19.9099998474,"High":20.1000003815,"Low":19.6200008392,"Close":19.8999996185,"Volume":79807500.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1753920000000,"Open":19.8299999237,"High":19.8299999237,"Low":19.6000003815,"Close":19.7000007629,"Volume":37149600.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1754006400000,"Open":19.8999996185,"High":20.0,"Low":18.1200008392,"Close":18.3500003815,"Volume":91196200.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1754265600000,"Open":18.5400009155,"High":19.0200004578,"Low":18.4599990845,"Close":18.7199993134,"Volume":54775000.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1754352000000,"Open":18.7800006866,"High":18.9099998474,"Low":18.5799999237,"Close":18.6200008392,"Volume":38162300.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1754438400000,"Open":18.8199996948,"High":18.9599990845,"Low":18.7000007629,"Close":18.7000007629,"Volume":34102000.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1754524800000,"Open":18.8199996948,"High":19.0400009155,"Low":18.6599998474,"Close":18.9099998474,"Volume":30090000.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1754611200000,"Open":18.9500007629,"High":19.2299995422,"Low":18.8099994659,"Close":18.9300003052,"Volume":38600300.0,"Ticker":"BBAS3.SA","Adj Close":null}
-{"Date":1751932800000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1752019200000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1752105600000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1752192000000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1752451200000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1752537600000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1752624000000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1752710400000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1752796800000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1753056000000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1753142400000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1753228800000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1753315200000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1753401600000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1753660800000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1753747200000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1753833600000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1753920000000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1754006400000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1754265600000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1754352000000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1754438400000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1754524800000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1754611200000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BBDC4.SA","Adj Close":null}
-{"Date":1751932800000,"Open":42.487641883,"High":42.487641883,"Low":40.2483072072,"Close":40.4175033569,"Volume":11029800.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1752019200000,"Open":40.3080268609,"High":40.3577890977,"Low":39.7705855916,"Close":39.9198760986,"Volume":11678900.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1752105600000,"Open":39.2530501978,"High":40.0492611776,"Low":39.0042352158,"Close":39.7108726501,"Volume":12622900.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1752192000000,"Open":39.6710598534,"High":39.8900182443,"Low":39.1833808364,"Close":39.561580658,"Volume":11076600.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1752451200000,"Open":39.3923868796,"High":39.9099186632,"Low":39.3426208496,"Close":39.3426208496,"Volume":5026100.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1752537600000,"Open":39.4122885961,"High":39.7805374746,"Low":39.0340925861,"Close":39.4819564819,"Volume":7131200.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1752624000000,"Open":39.6611064172,"High":41.104234065,"Low":39.5118197067,"Close":40.9250869751,"Volume":11531300.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1752710400000,"Open":41.2037597341,"High":42.3084949898,"Low":41.1838540813,"Close":41.8904876709,"Volume":17894300.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1752796800000,"Open":42.0397778881,"High":42.676743587,"Low":41.8208195054,"Close":42.1691589355,"Volume":13711800.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1753056000000,"Open":42.8359848649,"High":42.8459357929,"Low":41.5819553275,"Close":41.7710571289,"Volume":7733200.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1753142400000,"Open":41.8009148996,"High":42.0497298692,"Low":41.1241378784,"Close":41.1241378784,"Volume":8965700.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1753228800000,"Open":39.1236672358,"High":39.7506782264,"Low":37.829826355,"Close":37.829826355,"Volume":31116000.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1753315200000,"Open":38.018928902,"High":38.4170305837,"Low":35.9089789792,"Close":36.058265686,"Volume":30042500.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1753401600000,"Open":36.3170332421,"High":36.4265086354,"Low":35.7696372927,"Close":35.9985466003,"Volume":19069200.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1753660800000,"Open":36.0999984741,"High":36.7299995422,"Low":36.0,"Close":36.7299995422,"Volume":11133300.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1753747200000,"Open":37.1500015259,"High":37.9399986267,"Low":36.5800018311,"Close":36.5800018311,"Volume":14293400.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1753833600000,"Open":36.6500015259,"High":37.4799995422,"Low":35.75,"Close":36.8499984741,"Volume":18990800.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1753920000000,"Open":36.6100006104,"High":37.3300018311,"Low":35.9000015259,"Close":37.1100006104,"Volume":15042800.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1754006400000,"Open":37.2700004578,"High":37.3199996948,"Low":36.3400001526,"Close":37.1800003052,"Volume":16118400.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1754265600000,"Open":37.4099998474,"High":37.7900009155,"Low":37.0200004578,"Close":37.0699996948,"Volume":6629900.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1754352000000,"Open":37.0699996948,"High":37.4099998474,"Low":36.9300003052,"Close":37.1300010681,"Volume":5735100.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1754438400000,"Open":37.4000015259,"High":38.2200012207,"Low":37.3199996948,"Close":38.1599998474,"Volume":9789400.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1754524800000,"Open":38.1800003052,"High":39.6300010681,"Low":38.1599998474,"Close":39.0,"Volume":14205400.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1754611200000,"Open":38.9300003052,"High":39.3400001526,"Low":37.9599990845,"Close":38.0999984741,"Volume":7471100.0,"Ticker":"WEGE3.SA","Adj Close":null}
-{"Date":1751932800000,"Open":155.8803197706,"High":155.8803197706,"Low":154.7385273099,"Close":154.9172363281,"Volume":43602.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1752019200000,"Open":154.2619394167,"High":154.6094493738,"Low":153.6960123765,"Close":153.9740142822,"Volume":36346.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1752105600000,"Open":153.9938711944,"High":154.3910124333,"Low":153.4775754639,"Close":154.0137176514,"Volume":35760.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1752192000000,"Open":153.7952784833,"High":155.354088833,"Low":153.7952784833,"Close":155.2150878906,"Volume":25490.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1752451200000,"Open":155.5328031654,"High":155.6122344423,"Low":154.5895813709,"Close":154.7782287598,"Volume":45948.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1752537600000,"Open":155.3640137994,"High":155.4633066807,"Low":153.9938659668,"Close":153.9938659668,"Volume":41910.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1752624000000,"Open":154.8874395692,"High":154.8874395692,"Low":153.5470614361,"Close":153.8449249268,"Volume":33141.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1752710400000,"Open":154.3910080781,"High":154.7186564084,"Low":153.9144355749,"Close":154.539932251,"Volume":30838.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1752796800000,"Open":154.867590843,"High":155.3640249855,"Low":154.539942491,"Close":155.0065917969,"Volume":26053.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1753056000000,"Open":154.8675836585,"High":154.8874452652,"Low":153.4279277421,"Close":153.8945770264,"Volume":36500.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1753142400000,"Open":153.9144336931,"High":154.3810829624,"Low":152.9116271081,"Close":153.4477844238,"Volume":31723.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1753228800000,"Open":153.159843159,"High":153.4378450432,"Low":152.6733474367,"Close":152.9017028809,"Volume":35269.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1753315200000,"Open":153.1002807617,"High":153.5470684432,"Low":152.6534930803,"Close":153.1002807617,"Volume":33095.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1753401600000,"Open":153.7853586066,"High":155.5030163921,"Low":152.7130591067,"Close":154.5995178223,"Volume":36429.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1753660800000,"Open":155.1853054129,"High":155.1853054129,"Low":152.8917822547,"Close":153.5967102051,"Volume":45039.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1753747200000,"Open":153.4477837445,"High":153.8846481776,"Low":152.4151923298,"Close":152.9314880371,"Volume":33047.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1753833600000,"Open":153.2492162319,"High":153.3087859013,"Low":150.5684599107,"Close":150.9159698486,"Volume":57939.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1753920000000,"Open":152.4251330607,"High":153.3087851687,"Low":152.2265624471,"Close":153.1399993896,"Volume":34919.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1754006400000,"Open":153.9600067139,"High":153.9900054932,"Low":151.1399993896,"Close":152.1999969482,"Volume":47375.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1754265600000,"Open":153.4299926758,"High":153.7899932861,"Low":152.3099975586,"Close":152.8699951172,"Volume":87971.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1754352000000,"Open":153.0,"High":153.0,"Low":151.2299957275,"Close":151.9799957275,"Volume":38446.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1754438400000,"Open":152.2799987793,"High":153.0,"Low":151.3300018311,"Close":152.3699951172,"Volume":33950.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1754524800000,"Open":152.3699951172,"High":153.0,"Low":151.8300018311,"Close":151.8300018311,"Volume":34379.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1754611200000,"Open":152.8399963379,"High":152.8500061035,"Low":151.25,"Close":151.75,"Volume":42704.0,"Ticker":"HGLG11.SA","Adj Close":null}
-{"Date":1751932800000,"Open":144.2681951677,"High":144.2681951677,"Low":142.9872741699,"Close":142.9872741699,"Volume":23491.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1752019200000,"Open":143.0865626139,"High":143.7915607575,"Low":142.8482450597,"Close":143.4936676025,"Volume":21940.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1752105600000,"Open":143.4738224241,"High":143.4738224241,"Low":142.1134471876,"Close":143.28515625,"Volume":19988.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1752192000000,"Open":143.2355052823,"High":143.980230613,"Low":142.7092339273,"Close":143.9703063965,"Volume":19685.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1752451200000,"Open":143.9703027111,"High":144.7249522391,"Low":143.2752136323,"Close":143.4936676025,"Volume":40441.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1752537600000,"Open":144.0497502785,"High":144.0497502785,"Low":142.2127550088,"Close":142.9971923828,"Volume":21522.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1752624000000,"Open":143.0369226724,"High":144.218556019,"Low":143.0369226724,"Close":143.8809356689,"Volume":23740.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1752710400000,"Open":143.8511459324,"High":144.6753104837,"Low":143.3844501606,"Close":143.9603729248,"Volume":23597.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1752796800000,"Open":143.7220730584,"High":144.4667984329,"Low":143.1064231125,"Close":143.7022094727,"Volume":23207.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1753056000000,"Open":143.4837575611,"High":143.7220751389,"Low":141.0013396102,"Close":141.2098693848,"Volume":36081.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1753142400000,"Open":141.7162705392,"High":142.9376158713,"Low":141.7162705392,"Close":142.4907836914,"Volume":27242.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1753228800000,"Open":142.4808574367,"High":142.8085384043,"Low":141.2495727539,"Close":141.2495727539,"Volume":20629.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1753315200000,"Open":141.487887089,"High":142.9078227648,"Low":141.0708427265,"Close":142.5503540039,"Volume":27149.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1753401600000,"Open":142.6695081646,"High":142.9872649149,"Low":142.0141613822,"Close":142.9773406982,"Volume":18605.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1753660800000,"Open":142.9773356435,"High":142.9773356435,"Low":141.2297038816,"Close":141.3091430664,"Volume":32061.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1753747200000,"Open":141.1502676313,"High":142.3517644926,"Low":140.405542304,"Close":140.6438598633,"Volume":117794.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1753833600000,"Open":141.5276110658,"High":141.9247918776,"Low":139.5714645076,"Close":140.1175994873,"Volume":28085.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1753920000000,"Open":140.9914120404,"High":141.9744398286,"Low":138.866462931,"Close":141.1900024414,"Volume":41949.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1754006400000,"Open":141.8899993896,"High":142.7100067139,"Low":141.0,"Close":141.0,"Volume":31509.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1754265600000,"Open":140.0099945068,"High":140.5,"Low":138.1100006104,"Close":139.2100067139,"Volume":93949.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1754352000000,"Open":139.0,"High":139.9900054932,"Low":138.3699951172,"Close":138.6199951172,"Volume":32051.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1754438400000,"Open":138.5,"High":139.3800048828,"Low":138.0099945068,"Close":138.4100036621,"Volume":34059.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1754524800000,"Open":138.5099945068,"High":139.9900054932,"Low":138.5099945068,"Close":139.8500061035,"Volume":30930.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1754611200000,"Open":139.7899932861,"High":139.9900054932,"Low":139.1199951172,"Close":139.3000030518,"Volume":22272.0,"Ticker":"KNRI11.SA","Adj Close":null}
-{"Date":1751932800000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1752019200000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1752105600000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1752192000000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1752451200000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1752537600000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1752624000000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1752710400000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1752796800000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1753056000000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1753142400000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1753228800000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1753315200000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1753401600000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1753660800000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1753747200000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1753833600000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1753920000000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1754006400000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1754265600000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1754352000000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1754438400000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1754524800000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1754611200000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"BCFF11.SA","Adj Close":null}
-{"Date":1751932800000,"Open":136.3399963379,"High":136.3999938965,"Low":135.6600036621,"Close":136.1499938965,"Volume":2574588.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1752019200000,"Open":135.9400024414,"High":135.9400024414,"Low":134.1100006104,"Close":134.1100006104,"Volume":8538960.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1752105600000,"Open":133.0,"High":134.0299987793,"Low":132.9299926758,"Close":133.6100006104,"Volume":5335029.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1752192000000,"Open":133.5,"High":133.5,"Low":132.5299987793,"Close":133.5,"Volume":4964400.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1752451200000,"Open":132.8800048828,"High":132.8899993896,"Low":131.8500061035,"Close":132.0899963379,"Volume":4839858.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1752537600000,"Open":132.7799987793,"High":132.9700012207,"Low":131.3500061035,"Close":132.3699951172,"Volume":5716437.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1752624000000,"Open":132.2200012207,"High":132.6499938965,"Low":131.2799987793,"Close":132.3999938965,"Volume":6592146.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1752710400000,"Open":132.6699981689,"High":132.7799987793,"Low":132.0099945068,"Close":132.4700012207,"Volume":3403032.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1752796800000,"Open":131.2799987793,"High":132.1900024414,"Low":130.3000030518,"Close":130.3000030518,"Volume":6597946.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1753056000000,"Open":130.6499938965,"High":131.8899993896,"Low":130.6499938965,"Close":131.1999969482,"Volume":4533839.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1753142400000,"Open":131.7599945068,"High":132.2799987793,"Low":129.9900054932,"Close":131.1499938965,"Volume":4538075.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1753228800000,"Open":130.8999938965,"High":132.7599945068,"Low":130.6499938965,"Close":132.3899993896,"Volume":3129788.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1753315200000,"Open":131.5700073242,"High":131.5700073242,"Low":130.6900024414,"Close":130.7799987793,"Volume":3916773.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1753401600000,"Open":130.9900054932,"High":131.1999969482,"Low":130.3000030518,"Close":130.4499969482,"Volume":3619992.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1753660800000,"Open":130.5,"High":130.7200012207,"Low":128.6999969482,"Close":129.25,"Volume":3943153.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1753747200000,"Open":129.25,"High":130.4299926758,"Low":129.1999969482,"Close":129.5,"Volume":4698897.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1753833600000,"Open":129.0200042725,"High":132.1999969482,"Low":128.9600067139,"Close":130.9299926758,"Volume":6126767.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1753920000000,"Open":129.3699951172,"High":130.5299987793,"Low":129.0800018311,"Close":129.8800048828,"Volume":4106736.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1754006400000,"Open":131.6100006104,"High":131.8699951172,"Low":129.1999969482,"Close":129.5700073242,"Volume":3674664.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1754265600000,"Open":130.7400054932,"High":131.0,"Low":129.5399932861,"Close":130.0,"Volume":2924525.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1754352000000,"Open":129.9600067139,"High":131.2799987793,"Low":129.7799987793,"Close":130.1600036621,"Volume":2816372.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1754438400000,"Open":131.0200042725,"High":132.2400054932,"Low":131.0200042725,"Close":131.4900054932,"Volume":4891658.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1754524800000,"Open":132.1100006104,"High":133.9499969482,"Low":132.1100006104,"Close":133.5200042725,"Volume":8358557.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1754611200000,"Open":133.3600006104,"High":133.6000061035,"Low":132.5800018311,"Close":132.9100036621,"Volume":4351216.0,"Ticker":"BOVA11.SA","Adj Close":null}
-{"Date":1751932800000,"Open":381.5,"High":382.4599914551,"Low":379.5100097656,"Close":380.1000061035,"Volume":112399.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1752019200000,"Open":381.5899963379,"High":386.6499938965,"Low":381.3200073242,"Close":386.6499938965,"Volume":139263.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1752105600000,"Open":389.950012207,"High":392.5,"Low":387.7699890137,"Close":390.5,"Volume":236766.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1752192000000,"Open":390.0,"High":392.5,"Low":387.9299926758,"Close":388.799987793,"Volume":162170.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1752451200000,"Open":388.799987793,"High":393.0,"Low":388.2200012207,"Close":392.0,"Volume":73129.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1752537600000,"Open":391.799987793,"High":393.5899963379,"Low":388.8900146484,"Close":388.8900146484,"Volume":95727.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1752624000000,"Open":391.0199890137,"High":392.0599975586,"Low":387.0,"Close":390.700012207,"Volume":122128.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1752710400000,"Open":392.0,"High":393.6000061035,"Low":391.0599975586,"Close":391.9800109863,"Volume":127466.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1752796800000,"Open":392.6000061035,"High":394.9899902344,"Low":390.6000061035,"Close":394.2799987793,"Volume":87653.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1753056000000,"Open":393.0,"High":395.7699890137,"Low":392.7099914551,"Close":393.6400146484,"Volume":89437.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1753142400000,"Open":393.9400024414,"High":394.6900024414,"Low":392.0,"Close":393.4800109863,"Volume":105697.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1753228800000,"Open":394.0,"High":395.3200073242,"Low":392.549987793,"Close":393.7799987793,"Volume":71728.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1753315200000,"Open":394.0,"High":396.0,"Low":393.7799987793,"Close":393.9800109863,"Volume":93721.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1753401600000,"Open":395.0,"High":399.4800109863,"Low":394.7099914551,"Close":398.299987793,"Volume":173203.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1753660800000,"Open":399.6000061035,"High":402.1799926758,"Low":399.6000061035,"Close":400.4100036621,"Volume":144581.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1753747200000,"Open":401.0,"High":402.0,"Low":397.6700134277,"Close":397.6700134277,"Volume":99409.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1753833600000,"Open":399.8900146484,"High":402.950012207,"Low":396.0,"Close":398.4899902344,"Volume":170504.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1753920000000,"Open":404.0,"High":405.0,"Low":397.6000061035,"Close":398.0100097656,"Volume":118375.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1754006400000,"Open":391.799987793,"High":391.799987793,"Low":386.0899963379,"Close":387.799987793,"Volume":178219.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1754265600000,"Open":388.950012207,"High":391.5299987793,"Low":387.0100097656,"Close":391.299987793,"Volume":90455.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1754352000000,"Open":392.0599975586,"High":392.5199890137,"Low":388.6199951172,"Close":389.299987793,"Volume":106030.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1754438400000,"Open":388.9400024414,"High":390.049987793,"Low":386.5199890137,"Close":388.799987793,"Volume":119420.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1754524800000,"Open":390.0899963379,"High":391.5,"Low":384.7799987793,"Close":385.8999938965,"Volume":80915.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1754611200000,"Open":386.8999938965,"High":390.3599853516,"Low":386.5,"Close":390.3500061035,"Volume":96274.0,"Ticker":"IVVB11.SA","Adj Close":null}
-{"Date":1751932800000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"SPY","Adj Close":null}
-{"Date":1752019200000,"Open":622.7700195312,"High":624.7199707031,"Low":620.9099731445,"Close":624.0599975586,"Volume":66113300.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1752105600000,"Open":624.200012207,"High":626.8699951172,"Low":623.0100097656,"Close":625.8200073242,"Volume":57529000.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1752192000000,"Open":622.7399902344,"High":624.8599853516,"Low":621.5300292969,"Close":623.6199951172,"Volume":63670200.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1752451200000,"Open":623.1599731445,"High":625.1599731445,"Low":621.799987793,"Close":624.8099975586,"Volume":51898500.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1752537600000,"Open":627.5200195312,"High":627.8599853516,"Low":622.0599975586,"Close":622.1400146484,"Volume":74317300.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1752624000000,"Open":623.7399902344,"High":624.7299804688,"Low":618.049987793,"Close":624.2199707031,"Volume":88987500.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1752710400000,"Open":624.4000244141,"High":628.4000244141,"Low":624.1799926758,"Close":628.0399780273,"Volume":68885700.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1752796800000,"Open":629.299987793,"High":629.4699707031,"Low":626.4600219727,"Close":627.5800170898,"Volume":65621600.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1753056000000,"Open":628.7700195312,"High":631.5399780273,"Low":628.3400268555,"Close":628.7700195312,"Volume":63375000.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1753142400000,"Open":629.0999755859,"High":629.7299804688,"Low":626.1900024414,"Close":628.8599853516,"Volume":60046300.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1753228800000,"Open":631.549987793,"High":634.2100219727,"Low":629.7299804688,"Close":634.2100219727,"Volume":70511000.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1753315200000,"Open":634.5999755859,"High":636.1500244141,"Low":633.9899902344,"Close":634.4199829102,"Volume":71307100.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1753401600000,"Open":635.0900268555,"High":637.5800170898,"Low":634.8400268555,"Close":637.0999755859,"Volume":56865400.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1753660800000,"Open":637.4799804688,"High":638.0399780273,"Low":635.5399780273,"Close":636.9400024414,"Volume":54917100.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1753747200000,"Open":638.3499755859,"High":638.6699829102,"Low":634.3400268555,"Close":635.2600097656,"Volume":60556300.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1753833600000,"Open":635.9199829102,"High":637.6799926758,"Low":631.5399780273,"Close":634.4600219727,"Volume":80418900.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1753920000000,"Open":639.4600219727,"High":639.8499755859,"Low":630.7700195312,"Close":632.0800170898,"Volume":103385200.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1754006400000,"Open":626.299987793,"High":626.3400268555,"Low":619.2899780273,"Close":621.7199707031,"Volume":140103600.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1754265600000,"Open":625.6699829102,"High":631.2199707031,"Low":625.5800170898,"Close":631.1699829102,"Volume":73218000.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1754352000000,"Open":631.7899780273,"High":632.6099853516,"Low":627.0399780273,"Close":627.9699707031,"Volume":68051400.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1754438400000,"Open":629.049987793,"High":633.4400024414,"Low":628.1300048828,"Close":632.7800292969,"Volume":64357500.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1754524800000,"Open":636.2399902344,"High":636.9799804688,"Low":629.1099853516,"Close":632.25,"Volume":74205800.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1754611200000,"Open":634.0599975586,"High":637.6500244141,"Low":633.7399902344,"Close":637.1799926758,"Volume":63902600.0,"Ticker":"SPY","Adj Close":null}
-{"Date":1751932800000,"Open":11.0799999237,"High":11.1199998856,"Low":10.8999996185,"Close":11.0,"Volume":11595200.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1752019200000,"Open":11.0,"High":11.0399999619,"Low":10.6300001144,"Close":10.6400003433,"Volume":11792400.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1752105600000,"Open":10.5900001526,"High":10.8900003433,"Low":10.5600004196,"Close":10.7899999619,"Volume":11880500.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1752192000000,"Open":10.779999733,"High":10.8900003433,"Low":10.7399997711,"Close":10.8000001907,"Volume":9662200.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1752451200000,"Open":10.7899999619,"High":10.8299999237,"Low":10.6199998856,"Close":10.6599998474,"Volume":8106800.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1752537600000,"Open":10.7399997711,"High":10.8199996948,"Low":10.5399999619,"Close":10.6199998856,"Volume":8794700.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1752624000000,"Open":10.6599998474,"High":10.6599998474,"Low":10.470000267,"Close":10.5200004578,"Volume":10133100.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1752710400000,"Open":10.5200004578,"High":10.5500001907,"Low":10.4099998474,"Close":10.4600000381,"Volume":8720000.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1752796800000,"Open":10.4200000763,"High":10.4799995422,"Low":10.3699998856,"Close":10.3800001144,"Volume":12322100.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1753056000000,"Open":10.4200000763,"High":10.5699996948,"Low":10.3800001144,"Close":10.4799995422,"Volume":5741300.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1753142400000,"Open":10.5100002289,"High":10.6000003815,"Low":10.279999733,"Close":10.3500003815,"Volume":10847400.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1753228800000,"Open":10.3599996567,"High":10.6800003052,"Low":10.3299999237,"Close":10.5799999237,"Volume":8378100.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1753315200000,"Open":10.5500001907,"High":10.5600004196,"Low":10.4200000763,"Close":10.529999733,"Volume":6380300.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1753401600000,"Open":10.5200004578,"High":10.6000003815,"Low":10.4600000381,"Close":10.4799995422,"Volume":6458200.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1753660800000,"Open":10.529999733,"High":10.5399999619,"Low":10.3100004196,"Close":10.3699998856,"Volume":8163900.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1753747200000,"Open":10.4300003052,"High":10.4799995422,"Low":10.3299999237,"Close":10.4499998093,"Volume":8720000.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1753833600000,"Open":10.4499998093,"High":10.6300001144,"Low":10.3800001144,"Close":10.5,"Volume":10558600.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1753920000000,"Open":10.4300003052,"High":10.4499998093,"Low":10.1999998093,"Close":10.3299999237,"Volume":30596900.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1754006400000,"Open":10.4200000763,"High":10.4799995422,"Low":10.3100004196,"Close":10.3400001526,"Volume":7555600.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1754265600000,"Open":10.3699998856,"High":10.3900003433,"Low":10.1999998093,"Close":10.3000001907,"Volume":11001100.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1754352000000,"Open":10.2700004578,"High":10.279999733,"Low":10.0900001526,"Close":10.2399997711,"Volume":12789100.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1754438400000,"Open":10.2700004578,"High":10.4499998093,"Low":10.2600002289,"Close":10.4399995804,"Volume":11288800.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1754524800000,"Open":10.4600000381,"High":10.6400003433,"Low":10.3699998856,"Close":10.5799999237,"Volume":9213600.0,"Ticker":"CMIG4.SA","Adj Close":null}
-{"Date":1754611200000,"Open":10.6000003815,"High":10.720000267,"Low":10.5699996948,"Close":10.6700000763,"Volume":10422300.0,"Ticker":"CMIG4.SA","Adj Close":null}
+{"Date":1751932800000,"Open":37.1413473826,"High":37.3012669181,"Low":36.8814795673,"Close":37.1213569641,"Volume":20899600.0,"Ticker":"ITUB4.SA"}
+{"Date":1752019200000,"Open":37.0613882802,"High":37.0713815827,"Low":36.2417963989,"Close":36.3517417908,"Volume":15624400.0,"Ticker":"ITUB4.SA"}
+{"Date":1752105600000,"Open":35.8819788283,"High":35.8819788283,"Low":35.2223103173,"Close":35.2323036194,"Volume":38419300.0,"Ticker":"ITUB4.SA"}
+{"Date":1752192000000,"Open":35.1323547144,"High":35.1823288497,"Low":34.7125635898,"Close":34.9424476624,"Volume":41882800.0,"Ticker":"ITUB4.SA"}
+{"Date":1752451200000,"Open":34.9124643403,"High":35.012412612,"Low":34.4926732109,"Close":34.8824806213,"Volume":25888400.0,"Ticker":"ITUB4.SA"}
+{"Date":1752537600000,"Open":34.8824836338,"High":35.2023227063,"Low":34.6725861446,"Close":35.0024223328,"Volume":26559500.0,"Ticker":"ITUB4.SA"}
+{"Date":1752624000000,"Open":35.0723844902,"High":35.2822781522,"Low":34.8624908281,"Close":35.1723327637,"Volume":26849800.0,"Ticker":"ITUB4.SA"}
+{"Date":1752710400000,"Open":35.1923222344,"High":35.8220070164,"Low":35.1723318177,"Close":35.7020683289,"Volume":24842500.0,"Ticker":"ITUB4.SA"}
+{"Date":1752796800000,"Open":35.4022176449,"High":35.7020700978,"Low":34.9724370089,"Close":35.0523948669,"Volume":31288500.0,"Ticker":"ITUB4.SA"}
+{"Date":1753056000000,"Open":35.032404274,"High":35.5621408088,"Low":34.9924234388,"Close":35.4621887207,"Volume":11994700.0,"Ticker":"ITUB4.SA"}
+{"Date":1753142400000,"Open":35.4821784973,"High":35.7220596915,"Low":34.9224582526,"Close":34.9824295044,"Volume":22650800.0,"Ticker":"ITUB4.SA"}
+{"Date":1753228800000,"Open":34.9424498905,"High":35.5121634573,"Low":34.8425016136,"Close":35.3722343445,"Volume":12885400.0,"Ticker":"ITUB4.SA"}
+{"Date":1753315200000,"Open":35.2522940197,"High":35.2522940197,"Low":34.8325028877,"Close":35.0424003601,"Volume":11126300.0,"Ticker":"ITUB4.SA"}
+{"Date":1753401600000,"Open":35.0124156372,"High":35.4721876401,"Low":35.0124156372,"Close":35.192325592,"Volume":17978700.0,"Ticker":"ITUB4.SA"}
+{"Date":1753660800000,"Open":35.2622887049,"High":35.3022695405,"Low":34.1328586945,"Close":34.4526977539,"Volume":17329500.0,"Ticker":"ITUB4.SA"}
+{"Date":1753747200000,"Open":34.4227114263,"High":34.8425025895,"Low":34.352746868,"Close":34.65259552,"Volume":16170700.0,"Ticker":"ITUB4.SA"}
+{"Date":1753833600000,"Open":34.4926746094,"High":35.242298116,"Low":34.2927780578,"Close":35.0523948669,"Volume":18962900.0,"Ticker":"ITUB4.SA"}
+{"Date":1753920000000,"Open":34.6625906646,"High":35.2023204953,"Low":34.6226098298,"Close":35.1423492432,"Volume":21361000.0,"Ticker":"ITUB4.SA"}
+{"Date":1754006400000,"Open":35.5999984741,"High":35.7599983215,"Low":34.7400016785,"Close":34.9300003052,"Volume":16018100.0,"Ticker":"ITUB4.SA"}
+{"Date":1754265600000,"Open":35.4399986267,"High":35.5600013733,"Low":35.0299987793,"Close":35.2999992371,"Volume":16922400.0,"Ticker":"ITUB4.SA"}
+{"Date":1754352000000,"Open":35.2200012207,"High":35.9300003052,"Low":35.0600013733,"Close":35.6899986267,"Volume":48243500.0,"Ticker":"ITUB4.SA"}
+{"Date":1754438400000,"Open":36.2900009155,"High":37.1500015259,"Low":36.0999984741,"Close":36.1399993896,"Volume":39958600.0,"Ticker":"ITUB4.SA"}
+{"Date":1754524800000,"Open":36.2400016785,"High":37.0099983215,"Low":36.1100006104,"Close":36.7799987793,"Volume":26104200.0,"Ticker":"ITUB4.SA"}
+{"Date":1754611200000,"Open":36.7900009155,"High":37.1500015259,"Low":36.75,"Close":37.0299987793,"Volume":17795400.0,"Ticker":"ITUB4.SA"}
+{"Date":1751932800000,"Open":22.0599994659,"High":22.2600002289,"Low":22.0,"Close":22.0,"Volume":19468700.0,"Ticker":"BBAS3.SA"}
+{"Date":1752019200000,"Open":22.0100002289,"High":22.0499992371,"Low":21.3899993896,"Close":21.4500007629,"Volume":30185400.0,"Ticker":"BBAS3.SA"}
+{"Date":1752105600000,"Open":21.2000007629,"High":21.5300006866,"Low":21.1599998474,"Close":21.2099990845,"Volume":27565700.0,"Ticker":"BBAS3.SA"}
+{"Date":1752192000000,"Open":21.1800003052,"High":21.2000007629,"Low":20.8199996948,"Close":21.1399993896,"Volume":26044900.0,"Ticker":"BBAS3.SA"}
+{"Date":1752451200000,"Open":21.1200008392,"High":21.1299991608,"Low":20.6200008392,"Close":20.6800003052,"Volume":28395000.0,"Ticker":"BBAS3.SA"}
+{"Date":1752537600000,"Open":20.75,"High":21.0599994659,"Low":20.7099990845,"Close":20.8999996185,"Volume":30999200.0,"Ticker":"BBAS3.SA"}
+{"Date":1752624000000,"Open":20.9899997711,"High":20.9899997711,"Low":20.1700000763,"Close":20.8799991608,"Volume":55147900.0,"Ticker":"BBAS3.SA"}
+{"Date":1752710400000,"Open":20.8400001526,"High":20.8999996185,"Low":20.5799999237,"Close":20.7399997711,"Volume":28673400.0,"Ticker":"BBAS3.SA"}
+{"Date":1752796800000,"Open":20.6000003815,"High":20.8199996948,"Low":20.2000007629,"Close":20.2600002289,"Volume":42591900.0,"Ticker":"BBAS3.SA"}
+{"Date":1753056000000,"Open":20.3600006104,"High":20.4099998474,"Low":19.8600006104,"Close":19.8600006104,"Volume":42352600.0,"Ticker":"BBAS3.SA"}
+{"Date":1753142400000,"Open":19.9899997711,"High":20.1800003052,"Low":19.8700008392,"Close":19.8899993896,"Volume":24707100.0,"Ticker":"BBAS3.SA"}
+{"Date":1753228800000,"Open":19.9500007629,"High":20.4200000763,"Low":19.8700008392,"Close":20.2099990845,"Volume":35932600.0,"Ticker":"BBAS3.SA"}
+{"Date":1753315200000,"Open":20.1900005341,"High":20.2299995422,"Low":19.8999996185,"Close":20.0699996948,"Volume":44775000.0,"Ticker":"BBAS3.SA"}
+{"Date":1753401600000,"Open":20.1900005341,"High":20.4699993134,"Low":20.1299991608,"Close":20.2399997711,"Volume":38899700.0,"Ticker":"BBAS3.SA"}
+{"Date":1753660800000,"Open":20.2600002289,"High":20.3600006104,"Low":19.9400005341,"Close":19.9400005341,"Volume":24985300.0,"Ticker":"BBAS3.SA"}
+{"Date":1753747200000,"Open":20.0300006866,"High":20.0599994659,"Low":19.8799991608,"Close":19.9500007629,"Volume":37210200.0,"Ticker":"BBAS3.SA"}
+{"Date":1753833600000,"Open":19.9099998474,"High":20.1000003815,"Low":19.6200008392,"Close":19.8999996185,"Volume":79807500.0,"Ticker":"BBAS3.SA"}
+{"Date":1753920000000,"Open":19.8299999237,"High":19.8299999237,"Low":19.6000003815,"Close":19.7000007629,"Volume":37149600.0,"Ticker":"BBAS3.SA"}
+{"Date":1754006400000,"Open":19.8999996185,"High":20.0,"Low":18.1200008392,"Close":18.3500003815,"Volume":91196200.0,"Ticker":"BBAS3.SA"}
+{"Date":1754265600000,"Open":18.5400009155,"High":19.0200004578,"Low":18.4599990845,"Close":18.7199993134,"Volume":54775000.0,"Ticker":"BBAS3.SA"}
+{"Date":1754352000000,"Open":18.7800006866,"High":18.9099998474,"Low":18.5799999237,"Close":18.6200008392,"Volume":38162300.0,"Ticker":"BBAS3.SA"}
+{"Date":1754438400000,"Open":18.8199996948,"High":18.9599990845,"Low":18.7000007629,"Close":18.7000007629,"Volume":34102000.0,"Ticker":"BBAS3.SA"}
+{"Date":1754524800000,"Open":18.8199996948,"High":19.0400009155,"Low":18.6599998474,"Close":18.9099998474,"Volume":30090000.0,"Ticker":"BBAS3.SA"}
+{"Date":1754611200000,"Open":18.9500007629,"High":19.2299995422,"Low":18.8099994659,"Close":18.9300003052,"Volume":38600300.0,"Ticker":"BBAS3.SA"}
+{"Date":1751932800000,"Open":42.487641883,"High":42.487641883,"Low":40.2483072072,"Close":40.4175033569,"Volume":11029800.0,"Ticker":"WEGE3.SA"}
+{"Date":1752019200000,"Open":40.3080268609,"High":40.3577890977,"Low":39.7705855916,"Close":39.9198760986,"Volume":11678900.0,"Ticker":"WEGE3.SA"}
+{"Date":1752105600000,"Open":39.2530501978,"High":40.0492611776,"Low":39.0042352158,"Close":39.7108726501,"Volume":12622900.0,"Ticker":"WEGE3.SA"}
+{"Date":1752192000000,"Open":39.6710598534,"High":39.8900182443,"Low":39.1833808364,"Close":39.561580658,"Volume":11076600.0,"Ticker":"WEGE3.SA"}
+{"Date":1752451200000,"Open":39.3923868796,"High":39.9099186632,"Low":39.3426208496,"Close":39.3426208496,"Volume":5026100.0,"Ticker":"WEGE3.SA"}
+{"Date":1752537600000,"Open":39.4122885961,"High":39.7805374746,"Low":39.0340925861,"Close":39.4819564819,"Volume":7131200.0,"Ticker":"WEGE3.SA"}
+{"Date":1752624000000,"Open":39.6611064172,"High":41.104234065,"Low":39.5118197067,"Close":40.9250869751,"Volume":11531300.0,"Ticker":"WEGE3.SA"}
+{"Date":1752710400000,"Open":41.2037597341,"High":42.3084949898,"Low":41.1838540813,"Close":41.8904876709,"Volume":17894300.0,"Ticker":"WEGE3.SA"}
+{"Date":1752796800000,"Open":42.0397778881,"High":42.676743587,"Low":41.8208195054,"Close":42.1691589355,"Volume":13711800.0,"Ticker":"WEGE3.SA"}
+{"Date":1753056000000,"Open":42.8359848649,"High":42.8459357929,"Low":41.5819553275,"Close":41.7710571289,"Volume":7733200.0,"Ticker":"WEGE3.SA"}
+{"Date":1753142400000,"Open":41.8009148996,"High":42.0497298692,"Low":41.1241378784,"Close":41.1241378784,"Volume":8965700.0,"Ticker":"WEGE3.SA"}
+{"Date":1753228800000,"Open":39.1236672358,"High":39.7506782264,"Low":37.829826355,"Close":37.829826355,"Volume":31116000.0,"Ticker":"WEGE3.SA"}
+{"Date":1753315200000,"Open":38.018928902,"High":38.4170305837,"Low":35.9089789792,"Close":36.058265686,"Volume":30042500.0,"Ticker":"WEGE3.SA"}
+{"Date":1753401600000,"Open":36.3170332421,"High":36.4265086354,"Low":35.7696372927,"Close":35.9985466003,"Volume":19069200.0,"Ticker":"WEGE3.SA"}
+{"Date":1753660800000,"Open":36.0999984741,"High":36.7299995422,"Low":36.0,"Close":36.7299995422,"Volume":11133300.0,"Ticker":"WEGE3.SA"}
+{"Date":1753747200000,"Open":37.1500015259,"High":37.9399986267,"Low":36.5800018311,"Close":36.5800018311,"Volume":14293400.0,"Ticker":"WEGE3.SA"}
+{"Date":1753833600000,"Open":36.6500015259,"High":37.4799995422,"Low":35.75,"Close":36.8499984741,"Volume":18990800.0,"Ticker":"WEGE3.SA"}
+{"Date":1753920000000,"Open":36.6100006104,"High":37.3300018311,"Low":35.9000015259,"Close":37.1100006104,"Volume":15042800.0,"Ticker":"WEGE3.SA"}
+{"Date":1754006400000,"Open":37.2700004578,"High":37.3199996948,"Low":36.3400001526,"Close":37.1800003052,"Volume":16118400.0,"Ticker":"WEGE3.SA"}
+{"Date":1754265600000,"Open":37.4099998474,"High":37.7900009155,"Low":37.0200004578,"Close":37.0699996948,"Volume":6629900.0,"Ticker":"WEGE3.SA"}
+{"Date":1754352000000,"Open":37.0699996948,"High":37.4099998474,"Low":36.9300003052,"Close":37.1300010681,"Volume":5735100.0,"Ticker":"WEGE3.SA"}
+{"Date":1754438400000,"Open":37.4000015259,"High":38.2200012207,"Low":37.3199996948,"Close":38.1599998474,"Volume":9789400.0,"Ticker":"WEGE3.SA"}
+{"Date":1754524800000,"Open":38.1800003052,"High":39.6300010681,"Low":38.1599998474,"Close":39.0,"Volume":14205400.0,"Ticker":"WEGE3.SA"}
+{"Date":1754611200000,"Open":38.9300003052,"High":39.3400001526,"Low":37.9599990845,"Close":38.0999984741,"Volume":7471100.0,"Ticker":"WEGE3.SA"}
+{"Date":1751932800000,"Open":155.8803197706,"High":155.8803197706,"Low":154.7385273099,"Close":154.9172363281,"Volume":43602.0,"Ticker":"HGLG11.SA"}
+{"Date":1752019200000,"Open":154.2619394167,"High":154.6094493738,"Low":153.6960123765,"Close":153.9740142822,"Volume":36346.0,"Ticker":"HGLG11.SA"}
+{"Date":1752105600000,"Open":153.9938711944,"High":154.3910124333,"Low":153.4775754639,"Close":154.0137176514,"Volume":35760.0,"Ticker":"HGLG11.SA"}
+{"Date":1752192000000,"Open":153.7952784833,"High":155.354088833,"Low":153.7952784833,"Close":155.2150878906,"Volume":25490.0,"Ticker":"HGLG11.SA"}
+{"Date":1752451200000,"Open":155.5328031654,"High":155.6122344423,"Low":154.5895813709,"Close":154.7782287598,"Volume":45948.0,"Ticker":"HGLG11.SA"}
+{"Date":1752537600000,"Open":155.3640137994,"High":155.4633066807,"Low":153.9938659668,"Close":153.9938659668,"Volume":41910.0,"Ticker":"HGLG11.SA"}
+{"Date":1752624000000,"Open":154.8874395692,"High":154.8874395692,"Low":153.5470614361,"Close":153.8449249268,"Volume":33141.0,"Ticker":"HGLG11.SA"}
+{"Date":1752710400000,"Open":154.3910080781,"High":154.7186564084,"Low":153.9144355749,"Close":154.539932251,"Volume":30838.0,"Ticker":"HGLG11.SA"}
+{"Date":1752796800000,"Open":154.867590843,"High":155.3640249855,"Low":154.539942491,"Close":155.0065917969,"Volume":26053.0,"Ticker":"HGLG11.SA"}
+{"Date":1753056000000,"Open":154.8675836585,"High":154.8874452652,"Low":153.4279277421,"Close":153.8945770264,"Volume":36500.0,"Ticker":"HGLG11.SA"}
+{"Date":1753142400000,"Open":153.9144336931,"High":154.3810829624,"Low":152.9116271081,"Close":153.4477844238,"Volume":31723.0,"Ticker":"HGLG11.SA"}
+{"Date":1753228800000,"Open":153.159843159,"High":153.4378450432,"Low":152.6733474367,"Close":152.9017028809,"Volume":35269.0,"Ticker":"HGLG11.SA"}
+{"Date":1753315200000,"Open":153.1002807617,"High":153.5470684432,"Low":152.6534930803,"Close":153.1002807617,"Volume":33095.0,"Ticker":"HGLG11.SA"}
+{"Date":1753401600000,"Open":153.7853586066,"High":155.5030163921,"Low":152.7130591067,"Close":154.5995178223,"Volume":36429.0,"Ticker":"HGLG11.SA"}
+{"Date":1753660800000,"Open":155.1853054129,"High":155.1853054129,"Low":152.8917822547,"Close":153.5967102051,"Volume":45039.0,"Ticker":"HGLG11.SA"}
+{"Date":1753747200000,"Open":153.4477837445,"High":153.8846481776,"Low":152.4151923298,"Close":152.9314880371,"Volume":33047.0,"Ticker":"HGLG11.SA"}
+{"Date":1753833600000,"Open":153.2492162319,"High":153.3087859013,"Low":150.5684599107,"Close":150.9159698486,"Volume":57939.0,"Ticker":"HGLG11.SA"}
+{"Date":1753920000000,"Open":152.4251330607,"High":153.3087851687,"Low":152.2265624471,"Close":153.1399993896,"Volume":34919.0,"Ticker":"HGLG11.SA"}
+{"Date":1754006400000,"Open":153.9600067139,"High":153.9900054932,"Low":151.1399993896,"Close":152.1999969482,"Volume":47375.0,"Ticker":"HGLG11.SA"}
+{"Date":1754265600000,"Open":153.4299926758,"High":153.7899932861,"Low":152.3099975586,"Close":152.8699951172,"Volume":87971.0,"Ticker":"HGLG11.SA"}
+{"Date":1754352000000,"Open":153.0,"High":153.0,"Low":151.2299957275,"Close":151.9799957275,"Volume":38446.0,"Ticker":"HGLG11.SA"}
+{"Date":1754438400000,"Open":152.2799987793,"High":153.0,"Low":151.3300018311,"Close":152.3699951172,"Volume":33950.0,"Ticker":"HGLG11.SA"}
+{"Date":1754524800000,"Open":152.3699951172,"High":153.0,"Low":151.8300018311,"Close":151.8300018311,"Volume":34379.0,"Ticker":"HGLG11.SA"}
+{"Date":1754611200000,"Open":152.8399963379,"High":152.8500061035,"Low":151.25,"Close":151.75,"Volume":42704.0,"Ticker":"HGLG11.SA"}
+{"Date":1751932800000,"Open":144.2681951677,"High":144.2681951677,"Low":142.9872741699,"Close":142.9872741699,"Volume":23491.0,"Ticker":"KNRI11.SA"}
+{"Date":1752019200000,"Open":143.0865626139,"High":143.7915607575,"Low":142.8482450597,"Close":143.4936676025,"Volume":21940.0,"Ticker":"KNRI11.SA"}
+{"Date":1752105600000,"Open":143.4738224241,"High":143.4738224241,"Low":142.1134471876,"Close":143.28515625,"Volume":19988.0,"Ticker":"KNRI11.SA"}
+{"Date":1752192000000,"Open":143.2355052823,"High":143.980230613,"Low":142.7092339273,"Close":143.9703063965,"Volume":19685.0,"Ticker":"KNRI11.SA"}
+{"Date":1752451200000,"Open":143.9703027111,"High":144.7249522391,"Low":143.2752136323,"Close":143.4936676025,"Volume":40441.0,"Ticker":"KNRI11.SA"}
+{"Date":1752537600000,"Open":144.0497502785,"High":144.0497502785,"Low":142.2127550088,"Close":142.9971923828,"Volume":21522.0,"Ticker":"KNRI11.SA"}
+{"Date":1752624000000,"Open":143.0369226724,"High":144.218556019,"Low":143.0369226724,"Close":143.8809356689,"Volume":23740.0,"Ticker":"KNRI11.SA"}
+{"Date":1752710400000,"Open":143.8511459324,"High":144.6753104837,"Low":143.3844501606,"Close":143.9603729248,"Volume":23597.0,"Ticker":"KNRI11.SA"}
+{"Date":1752796800000,"Open":143.7220730584,"High":144.4667984329,"Low":143.1064231125,"Close":143.7022094727,"Volume":23207.0,"Ticker":"KNRI11.SA"}
+{"Date":1753056000000,"Open":143.4837575611,"High":143.7220751389,"Low":141.0013396102,"Close":141.2098693848,"Volume":36081.0,"Ticker":"KNRI11.SA"}
+{"Date":1753142400000,"Open":141.7162705392,"High":142.9376158713,"Low":141.7162705392,"Close":142.4907836914,"Volume":27242.0,"Ticker":"KNRI11.SA"}
+{"Date":1753228800000,"Open":142.4808574367,"High":142.8085384043,"Low":141.2495727539,"Close":141.2495727539,"Volume":20629.0,"Ticker":"KNRI11.SA"}
+{"Date":1753315200000,"Open":141.487887089,"High":142.9078227648,"Low":141.0708427265,"Close":142.5503540039,"Volume":27149.0,"Ticker":"KNRI11.SA"}
+{"Date":1753401600000,"Open":142.6695081646,"High":142.9872649149,"Low":142.0141613822,"Close":142.9773406982,"Volume":18605.0,"Ticker":"KNRI11.SA"}
+{"Date":1753660800000,"Open":142.9773356435,"High":142.9773356435,"Low":141.2297038816,"Close":141.3091430664,"Volume":32061.0,"Ticker":"KNRI11.SA"}
+{"Date":1753747200000,"Open":141.1502676313,"High":142.3517644926,"Low":140.405542304,"Close":140.6438598633,"Volume":117794.0,"Ticker":"KNRI11.SA"}
+{"Date":1753833600000,"Open":141.5276110658,"High":141.9247918776,"Low":139.5714645076,"Close":140.1175994873,"Volume":28085.0,"Ticker":"KNRI11.SA"}
+{"Date":1753920000000,"Open":140.9914120404,"High":141.9744398286,"Low":138.866462931,"Close":141.1900024414,"Volume":41949.0,"Ticker":"KNRI11.SA"}
+{"Date":1754006400000,"Open":141.8899993896,"High":142.7100067139,"Low":141.0,"Close":141.0,"Volume":31509.0,"Ticker":"KNRI11.SA"}
+{"Date":1754265600000,"Open":140.0099945068,"High":140.5,"Low":138.1100006104,"Close":139.2100067139,"Volume":93949.0,"Ticker":"KNRI11.SA"}
+{"Date":1754352000000,"Open":139.0,"High":139.9900054932,"Low":138.3699951172,"Close":138.6199951172,"Volume":32051.0,"Ticker":"KNRI11.SA"}
+{"Date":1754438400000,"Open":138.5,"High":139.3800048828,"Low":138.0099945068,"Close":138.4100036621,"Volume":34059.0,"Ticker":"KNRI11.SA"}
+{"Date":1754524800000,"Open":138.5099945068,"High":139.9900054932,"Low":138.5099945068,"Close":139.8500061035,"Volume":30930.0,"Ticker":"KNRI11.SA"}
+{"Date":1754611200000,"Open":139.7899932861,"High":139.9900054932,"Low":139.1199951172,"Close":139.3000030518,"Volume":22272.0,"Ticker":"KNRI11.SA"}
+{"Date":1751932800000,"Open":136.3399963379,"High":136.3999938965,"Low":135.6600036621,"Close":136.1499938965,"Volume":2574588.0,"Ticker":"BOVA11.SA"}
+{"Date":1752019200000,"Open":135.9400024414,"High":135.9400024414,"Low":134.1100006104,"Close":134.1100006104,"Volume":8538960.0,"Ticker":"BOVA11.SA"}
+{"Date":1752105600000,"Open":133.0,"High":134.0299987793,"Low":132.9299926758,"Close":133.6100006104,"Volume":5335029.0,"Ticker":"BOVA11.SA"}
+{"Date":1752192000000,"Open":133.5,"High":133.5,"Low":132.5299987793,"Close":133.5,"Volume":4964400.0,"Ticker":"BOVA11.SA"}
+{"Date":1752451200000,"Open":132.8800048828,"High":132.8899993896,"Low":131.8500061035,"Close":132.0899963379,"Volume":4839858.0,"Ticker":"BOVA11.SA"}
+{"Date":1752537600000,"Open":132.7799987793,"High":132.9700012207,"Low":131.3500061035,"Close":132.3699951172,"Volume":5716437.0,"Ticker":"BOVA11.SA"}
+{"Date":1752624000000,"Open":132.2200012207,"High":132.6499938965,"Low":131.2799987793,"Close":132.3999938965,"Volume":6592146.0,"Ticker":"BOVA11.SA"}
+{"Date":1752710400000,"Open":132.6699981689,"High":132.7799987793,"Low":132.0099945068,"Close":132.4700012207,"Volume":3403032.0,"Ticker":"BOVA11.SA"}
+{"Date":1752796800000,"Open":131.2799987793,"High":132.1900024414,"Low":130.3000030518,"Close":130.3000030518,"Volume":6597946.0,"Ticker":"BOVA11.SA"}
+{"Date":1753056000000,"Open":130.6499938965,"High":131.8899993896,"Low":130.6499938965,"Close":131.1999969482,"Volume":4533839.0,"Ticker":"BOVA11.SA"}
+{"Date":1753142400000,"Open":131.7599945068,"High":132.2799987793,"Low":129.9900054932,"Close":131.1499938965,"Volume":4538075.0,"Ticker":"BOVA11.SA"}
+{"Date":1753228800000,"Open":130.8999938965,"High":132.7599945068,"Low":130.6499938965,"Close":132.3899993896,"Volume":3129788.0,"Ticker":"BOVA11.SA"}
+{"Date":1753315200000,"Open":131.5700073242,"High":131.5700073242,"Low":130.6900024414,"Close":130.7799987793,"Volume":3916773.0,"Ticker":"BOVA11.SA"}
+{"Date":1753401600000,"Open":130.9900054932,"High":131.1999969482,"Low":130.3000030518,"Close":130.4499969482,"Volume":3619992.0,"Ticker":"BOVA11.SA"}
+{"Date":1753660800000,"Open":130.5,"High":130.7200012207,"Low":128.6999969482,"Close":129.25,"Volume":3943153.0,"Ticker":"BOVA11.SA"}
+{"Date":1753747200000,"Open":129.25,"High":130.4299926758,"Low":129.1999969482,"Close":129.5,"Volume":4698897.0,"Ticker":"BOVA11.SA"}
+{"Date":1753833600000,"Open":129.0200042725,"High":132.1999969482,"Low":128.9600067139,"Close":130.9299926758,"Volume":6126767.0,"Ticker":"BOVA11.SA"}
+{"Date":1753920000000,"Open":129.3699951172,"High":130.5299987793,"Low":129.0800018311,"Close":129.8800048828,"Volume":4106736.0,"Ticker":"BOVA11.SA"}
+{"Date":1754006400000,"Open":131.6100006104,"High":131.8699951172,"Low":129.1999969482,"Close":129.5700073242,"Volume":3674664.0,"Ticker":"BOVA11.SA"}
+{"Date":1754265600000,"Open":130.7400054932,"High":131.0,"Low":129.5399932861,"Close":130.0,"Volume":2924525.0,"Ticker":"BOVA11.SA"}
+{"Date":1754352000000,"Open":129.9600067139,"High":131.2799987793,"Low":129.7799987793,"Close":130.1600036621,"Volume":2816372.0,"Ticker":"BOVA11.SA"}
+{"Date":1754438400000,"Open":131.0200042725,"High":132.2400054932,"Low":131.0200042725,"Close":131.4900054932,"Volume":4891658.0,"Ticker":"BOVA11.SA"}
+{"Date":1754524800000,"Open":132.1100006104,"High":133.9499969482,"Low":132.1100006104,"Close":133.5200042725,"Volume":8358557.0,"Ticker":"BOVA11.SA"}
+{"Date":1754611200000,"Open":133.3600006104,"High":133.6000061035,"Low":132.5800018311,"Close":132.9100036621,"Volume":4351216.0,"Ticker":"BOVA11.SA"}
+{"Date":1751932800000,"Open":381.5,"High":382.4599914551,"Low":379.5100097656,"Close":380.1000061035,"Volume":112399.0,"Ticker":"IVVB11.SA"}
+{"Date":1752019200000,"Open":381.5899963379,"High":386.6499938965,"Low":381.3200073242,"Close":386.6499938965,"Volume":139263.0,"Ticker":"IVVB11.SA"}
+{"Date":1752105600000,"Open":389.950012207,"High":392.5,"Low":387.7699890137,"Close":390.5,"Volume":236766.0,"Ticker":"IVVB11.SA"}
+{"Date":1752192000000,"Open":390.0,"High":392.5,"Low":387.9299926758,"Close":388.799987793,"Volume":162170.0,"Ticker":"IVVB11.SA"}
+{"Date":1752451200000,"Open":388.799987793,"High":393.0,"Low":388.2200012207,"Close":392.0,"Volume":73129.0,"Ticker":"IVVB11.SA"}
+{"Date":1752537600000,"Open":391.799987793,"High":393.5899963379,"Low":388.8900146484,"Close":388.8900146484,"Volume":95727.0,"Ticker":"IVVB11.SA"}
+{"Date":1752624000000,"Open":391.0199890137,"High":392.0599975586,"Low":387.0,"Close":390.700012207,"Volume":122128.0,"Ticker":"IVVB11.SA"}
+{"Date":1752710400000,"Open":392.0,"High":393.6000061035,"Low":391.0599975586,"Close":391.9800109863,"Volume":127466.0,"Ticker":"IVVB11.SA"}
+{"Date":1752796800000,"Open":392.6000061035,"High":394.9899902344,"Low":390.6000061035,"Close":394.2799987793,"Volume":87653.0,"Ticker":"IVVB11.SA"}
+{"Date":1753056000000,"Open":393.0,"High":395.7699890137,"Low":392.7099914551,"Close":393.6400146484,"Volume":89437.0,"Ticker":"IVVB11.SA"}
+{"Date":1753142400000,"Open":393.9400024414,"High":394.6900024414,"Low":392.0,"Close":393.4800109863,"Volume":105697.0,"Ticker":"IVVB11.SA"}
+{"Date":1753228800000,"Open":394.0,"High":395.3200073242,"Low":392.549987793,"Close":393.7799987793,"Volume":71728.0,"Ticker":"IVVB11.SA"}
+{"Date":1753315200000,"Open":394.0,"High":396.0,"Low":393.7799987793,"Close":393.9800109863,"Volume":93721.0,"Ticker":"IVVB11.SA"}
+{"Date":1753401600000,"Open":395.0,"High":399.4800109863,"Low":394.7099914551,"Close":398.299987793,"Volume":173203.0,"Ticker":"IVVB11.SA"}
+{"Date":1753660800000,"Open":399.6000061035,"High":402.1799926758,"Low":399.6000061035,"Close":400.4100036621,"Volume":144581.0,"Ticker":"IVVB11.SA"}
+{"Date":1753747200000,"Open":401.0,"High":402.0,"Low":397.6700134277,"Close":397.6700134277,"Volume":99409.0,"Ticker":"IVVB11.SA"}
+{"Date":1753833600000,"Open":399.8900146484,"High":402.950012207,"Low":396.0,"Close":398.4899902344,"Volume":170504.0,"Ticker":"IVVB11.SA"}
+{"Date":1753920000000,"Open":404.0,"High":405.0,"Low":397.6000061035,"Close":398.0100097656,"Volume":118375.0,"Ticker":"IVVB11.SA"}
+{"Date":1754006400000,"Open":391.799987793,"High":391.799987793,"Low":386.0899963379,"Close":387.799987793,"Volume":178219.0,"Ticker":"IVVB11.SA"}
+{"Date":1754265600000,"Open":388.950012207,"High":391.5299987793,"Low":387.0100097656,"Close":391.299987793,"Volume":90455.0,"Ticker":"IVVB11.SA"}
+{"Date":1754352000000,"Open":392.0599975586,"High":392.5199890137,"Low":388.6199951172,"Close":389.299987793,"Volume":106030.0,"Ticker":"IVVB11.SA"}
+{"Date":1754438400000,"Open":388.9400024414,"High":390.049987793,"Low":386.5199890137,"Close":388.799987793,"Volume":119420.0,"Ticker":"IVVB11.SA"}
+{"Date":1754524800000,"Open":390.0899963379,"High":391.5,"Low":384.7799987793,"Close":385.8999938965,"Volume":80915.0,"Ticker":"IVVB11.SA"}
+{"Date":1754611200000,"Open":386.8999938965,"High":390.3599853516,"Low":386.5,"Close":390.3500061035,"Volume":96274.0,"Ticker":"IVVB11.SA"}
+{"Date":1751932800000,"Open":null,"High":null,"Low":null,"Close":null,"Volume":null,"Ticker":"SPY"}
+{"Date":1752019200000,"Open":622.7700195312,"High":624.7199707031,"Low":620.9099731445,"Close":624.0599975586,"Volume":66113300.0,"Ticker":"SPY"}
+{"Date":1752105600000,"Open":624.200012207,"High":626.8699951172,"Low":623.0100097656,"Close":625.8200073242,"Volume":57529000.0,"Ticker":"SPY"}
+{"Date":1752192000000,"Open":622.7399902344,"High":624.8599853516,"Low":621.5300292969,"Close":623.6199951172,"Volume":63670200.0,"Ticker":"SPY"}
+{"Date":1752451200000,"Open":623.1599731445,"High":625.1599731445,"Low":621.799987793,"Close":624.8099975586,"Volume":51898500.0,"Ticker":"SPY"}
+{"Date":1752537600000,"Open":627.5200195312,"High":627.8599853516,"Low":622.0599975586,"Close":622.1400146484,"Volume":74317300.0,"Ticker":"SPY"}
+{"Date":1752624000000,"Open":623.7399902344,"High":624.7299804688,"Low":618.049987793,"Close":624.2199707031,"Volume":88987500.0,"Ticker":"SPY"}
+{"Date":1752710400000,"Open":624.4000244141,"High":628.4000244141,"Low":624.1799926758,"Close":628.0399780273,"Volume":68885700.0,"Ticker":"SPY"}
+{"Date":1752796800000,"Open":629.299987793,"High":629.4699707031,"Low":626.4600219727,"Close":627.5800170898,"Volume":65621600.0,"Ticker":"SPY"}
+{"Date":1753056000000,"Open":628.7700195312,"High":631.5399780273,"Low":628.3400268555,"Close":628.7700195312,"Volume":63375000.0,"Ticker":"SPY"}
+{"Date":1753142400000,"Open":629.0999755859,"High":629.7299804688,"Low":626.1900024414,"Close":628.8599853516,"Volume":60046300.0,"Ticker":"SPY"}
+{"Date":1753228800000,"Open":631.549987793,"High":634.2100219727,"Low":629.7299804688,"Close":634.2100219727,"Volume":70511000.0,"Ticker":"SPY"}
+{"Date":1753315200000,"Open":634.5999755859,"High":636.1500244141,"Low":633.9899902344,"Close":634.4199829102,"Volume":71307100.0,"Ticker":"SPY"}
+{"Date":1753401600000,"Open":635.0900268555,"High":637.5800170898,"Low":634.8400268555,"Close":637.0999755859,"Volume":56865400.0,"Ticker":"SPY"}
+{"Date":1753660800000,"Open":637.4799804688,"High":638.0399780273,"Low":635.5399780273,"Close":636.9400024414,"Volume":54917100.0,"Ticker":"SPY"}
+{"Date":1753747200000,"Open":638.3499755859,"High":638.6699829102,"Low":634.3400268555,"Close":635.2600097656,"Volume":60556300.0,"Ticker":"SPY"}
+{"Date":1753833600000,"Open":635.9199829102,"High":637.6799926758,"Low":631.5399780273,"Close":634.4600219727,"Volume":80418900.0,"Ticker":"SPY"}
+{"Date":1753920000000,"Open":639.4600219727,"High":639.8499755859,"Low":630.7700195312,"Close":632.0800170898,"Volume":103385200.0,"Ticker":"SPY"}
+{"Date":1754006400000,"Open":626.299987793,"High":626.3400268555,"Low":619.2899780273,"Close":621.7199707031,"Volume":140103600.0,"Ticker":"SPY"}
+{"Date":1754265600000,"Open":625.6699829102,"High":631.2199707031,"Low":625.5800170898,"Close":631.1699829102,"Volume":73218000.0,"Ticker":"SPY"}
+{"Date":1754352000000,"Open":631.7899780273,"High":632.6099853516,"Low":627.0399780273,"Close":627.9699707031,"Volume":68051400.0,"Ticker":"SPY"}
+{"Date":1754438400000,"Open":629.049987793,"High":633.4400024414,"Low":628.1300048828,"Close":632.7800292969,"Volume":64357500.0,"Ticker":"SPY"}
+{"Date":1754524800000,"Open":636.2399902344,"High":636.9799804688,"Low":629.1099853516,"Close":632.25,"Volume":74205800.0,"Ticker":"SPY"}
+{"Date":1754611200000,"Open":634.0599975586,"High":637.6500244141,"Low":633.7399902344,"Close":637.1799926758,"Volume":63902600.0,"Ticker":"SPY"}
+{"Date":1751932800000,"Open":11.0799999237,"High":11.1199998856,"Low":10.8999996185,"Close":11.0,"Volume":11595200.0,"Ticker":"CMIG4.SA"}
+{"Date":1752019200000,"Open":11.0,"High":11.0399999619,"Low":10.6300001144,"Close":10.6400003433,"Volume":11792400.0,"Ticker":"CMIG4.SA"}
+{"Date":1752105600000,"Open":10.5900001526,"High":10.8900003433,"Low":10.5600004196,"Close":10.7899999619,"Volume":11880500.0,"Ticker":"CMIG4.SA"}
+{"Date":1752192000000,"Open":10.779999733,"High":10.8900003433,"Low":10.7399997711,"Close":10.8000001907,"Volume":9662200.0,"Ticker":"CMIG4.SA"}
+{"Date":1752451200000,"Open":10.7899999619,"High":10.8299999237,"Low":10.6199998856,"Close":10.6599998474,"Volume":8106800.0,"Ticker":"CMIG4.SA"}
+{"Date":1752537600000,"Open":10.7399997711,"High":10.8199996948,"Low":10.5399999619,"Close":10.6199998856,"Volume":8794700.0,"Ticker":"CMIG4.SA"}
+{"Date":1752624000000,"Open":10.6599998474,"High":10.6599998474,"Low":10.470000267,"Close":10.5200004578,"Volume":10133100.0,"Ticker":"CMIG4.SA"}
+{"Date":1752710400000,"Open":10.5200004578,"High":10.5500001907,"Low":10.4099998474,"Close":10.4600000381,"Volume":8720000.0,"Ticker":"CMIG4.SA"}
+{"Date":1752796800000,"Open":10.4200000763,"High":10.4799995422,"Low":10.3699998856,"Close":10.3800001144,"Volume":12322100.0,"Ticker":"CMIG4.SA"}
+{"Date":1753056000000,"Open":10.4200000763,"High":10.5699996948,"Low":10.3800001144,"Close":10.4799995422,"Volume":5741300.0,"Ticker":"CMIG4.SA"}
+{"Date":1753142400000,"Open":10.5100002289,"High":10.6000003815,"Low":10.279999733,"Close":10.3500003815,"Volume":10847400.0,"Ticker":"CMIG4.SA"}
+{"Date":1753228800000,"Open":10.3599996567,"High":10.6800003052,"Low":10.3299999237,"Close":10.5799999237,"Volume":8378100.0,"Ticker":"CMIG4.SA"}
+{"Date":1753315200000,"Open":10.5500001907,"High":10.5600004196,"Low":10.4200000763,"Close":10.529999733,"Volume":6380300.0,"Ticker":"CMIG4.SA"}
+{"Date":1753401600000,"Open":10.5200004578,"High":10.6000003815,"Low":10.4600000381,"Close":10.4799995422,"Volume":6458200.0,"Ticker":"CMIG4.SA"}
+{"Date":1753660800000,"Open":10.529999733,"High":10.5399999619,"Low":10.3100004196,"Close":10.3699998856,"Volume":8163900.0,"Ticker":"CMIG4.SA"}
+{"Date":1753747200000,"Open":10.4300003052,"High":10.4799995422,"Low":10.3299999237,"Close":10.4499998093,"Volume":8720000.0,"Ticker":"CMIG4.SA"}
+{"Date":1753833600000,"Open":10.4499998093,"High":10.6300001144,"Low":10.3800001144,"Close":10.5,"Volume":10558600.0,"Ticker":"CMIG4.SA"}
+{"Date":1753920000000,"Open":10.4300003052,"High":10.4499998093,"Low":10.1999998093,"Close":10.3299999237,"Volume":30596900.0,"Ticker":"CMIG4.SA"}
+{"Date":1754006400000,"Open":10.4200000763,"High":10.4799995422,"Low":10.3100004196,"Close":10.3400001526,"Volume":7555600.0,"Ticker":"CMIG4.SA"}
+{"Date":1754265600000,"Open":10.3699998856,"High":10.3900003433,"Low":10.1999998093,"Close":10.3000001907,"Volume":11001100.0,"Ticker":"CMIG4.SA"}
+{"Date":1754352000000,"Open":10.2700004578,"High":10.279999733,"Low":10.0900001526,"Close":10.2399997711,"Volume":12789100.0,"Ticker":"CMIG4.SA"}
+{"Date":1754438400000,"Open":10.2700004578,"High":10.4499998093,"Low":10.2600002289,"Close":10.4399995804,"Volume":11288800.0,"Ticker":"CMIG4.SA"}
+{"Date":1754524800000,"Open":10.4600000381,"High":10.6400003433,"Low":10.3699998856,"Close":10.5799999237,"Volume":9213600.0,"Ticker":"CMIG4.SA"}
+{"Date":1754611200000,"Open":10.6000003815,"High":10.720000267,"Low":10.5699996948,"Close":10.6700000763,"Volume":10422300.0,"Ticker":"CMIG4.SA"}
