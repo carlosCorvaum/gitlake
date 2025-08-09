@@ -26,8 +26,8 @@ Ou instalando manualmente:
 📁 Gerenciamento de coleções de DataFrames diretamente no GitHub <br>
 💾 Suporte a formatos: csv, json, parquet <br>
 ✍️ Modos de escrita: overwrite, append <br>
-🕒 Controle de metadados: created_at, updated_at <br>
-🔐 Controle de versionamento Git <br>
+🕒 Controle de metadados: created_at, updated_at (ta bugadinho)<br>
+🔐 Controle de versionamento Git (disponivel em formatos json e csv)<br>
 🗑️ Exclusão lógica e física de coleções <br>
 🔄 Totalmente baseado em GitHub como backend remoto <br>
 
