@@ -1,3 +1,3 @@
-{"name":"bronze","base_path":"gitlake_example","path":"bronze\/wallet","format":"json","created_at":1,"updated_at":"2025-08-09T15:58:42.772402"}
-{"name":"silver","base_path":"gitlake_example","path":"silver\/wallet","format":"json","created_at":1754741,"updated_at":1754754580856}
+{"name":"bronze","base_path":"gitlake_example","path":"bronze\/wallet","format":"json","created_at":1,"updated_at":"2025-08-09T15:59:13.878540"}
+{"name":"silver","base_path":"gitlake_example","path":"silver\/wallet","format":"json","created_at":1754741,"updated_at":1754754}
 {"name":"gold","base_path":"gitlake_example","path":"gold\/wallet","format":"parquet","created_at":1754741488588,"updated_at":null}
