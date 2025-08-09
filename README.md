@@ -10,7 +10,7 @@ Ideal para projetos de dados, pipelines, protótipos de machine learning e exper
 
 ## 🚀 Instalação
 
-Via PyPI: https://pypi.org/project/gitlake <br>
+Via PyPI: (Em breve) <br>
 ``pip install gitlake``
 
 Ou instalando manualmente:
