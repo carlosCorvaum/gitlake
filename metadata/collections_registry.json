@@ -1,3 +1,0 @@
-{"name":"bronze","base_path":"gitlake_example","path":"bronze","format":"json","created_at":1754741,"updated_at":null}
-{"name":"silver","base_path":"gitlake_example","path":"silver","format":"json","created_at":1754741242346,"updated_at":null}
-{"name":"gold","base_path":"gitlake_example","path":"gold","format":"parquet","created_at":"2025-08-09T12:07:22.346206","updated_at":null}
