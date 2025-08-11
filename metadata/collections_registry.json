@@ -1,3 +1,0 @@
-{"name":"bronze","base_path":"gitlake_example","path":"bronze\/wallet","format":"json","created_at":null,"updated_at":null}
-{"name":"silver","base_path":"gitlake_example","path":"silver\/wallet","format":"json","created_at":null,"updated_at":null}
-{"name":"gold","base_path":"gitlake_example","path":"gold\/wallet","format":"parquet","created_at":null,"updated_at":null}
