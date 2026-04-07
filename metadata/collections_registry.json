@@ -1,3 +1,4 @@
-{"name":"bronze","base_path":"gitlake_example","path":"bronze\/wallet","format":"json","created_at":"2025-08-11T19:50:39.467647","updated_at":"2025-08-11T19:54:37.609299"}
-{"name":"silver","base_path":"gitlake_example","path":"silver\/wallet","format":"json","created_at":"2025-08-11T19:50:39.467647","updated_at":"2025-08-11T19:54:39.793143"}
-{"name":"gold","base_path":"gitlake_example","path":"gold\/wallet","format":"parquet","created_at":"2025-08-11T19:50:39.467647","updated_at":"2025-08-11T19:54:42.190287"}
+{"name":"bronze","base_path":"gitlake_example","path":"bronze\/wallet","format":"json","created_at":1754941839467,"updated_at":1754942077609}
+{"name":"silver","base_path":"gitlake_example","path":"silver\/wallet","format":"json","created_at":1754941839467,"updated_at":1754942079793}
+{"name":"gold","base_path":"gitlake_example","path":"gold\/wallet","format":"parquet","created_at":1754941839467,"updated_at":1754942082190}
+{"name":"cj","base_path":"teste","path":"discord\/cj","format":"json","created_at":"2026-04-07T16:48:58.198941","updated_at":null}
