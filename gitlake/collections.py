@@ -1,12 +1,15 @@
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 import datetime
 import pandas as pd
-from gitlake.connection import GitConnection
+from gitlake.connection import GitConnection, GitHubAPIError
 from functools import wraps
 import logging
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 logger = logging.getLogger(__name__)
+
+SUPPORTED_FORMATS = {"csv", "json", "parquet"}
+SUPPORTED_MODES = {"overwrite", "append"}
 
 @dataclass
 class Collection:
@@ -14,7 +17,7 @@ class Collection:
     base_path: str
     path: str
     format: str
-    created_at: str = datetime.datetime.now().isoformat()
+    created_at: str = field(default_factory=lambda: datetime.datetime.now().isoformat())
     updated_at: str = None
 
 def refresh_collection_list(method):
@@ -44,7 +47,7 @@ class CollectionManager:
                 path=self.metadata_path,
                 format="json",
             )
-            logger.info("📖 Collections metadata loaded successfully.")
+            logger.info("Collections metadata loaded successfully.")
             return [Collection(**row) for row in df.to_dict(orient="records")]
         except FileNotFoundError:
             logger.warning("No collections registered yet.")
@@ -57,7 +60,7 @@ class CollectionManager:
     @refresh_collection_list
     def create_collection_folder(self, collection: Collection):
         empty_df = pd.DataFrame()
-        self.git_connection.write_pd_dataframe_github(
+        success = self.git_connection.write_pd_dataframe_github(
             base_path=collection.base_path,
             path=collection.path,
             df=empty_df,
@@ -65,23 +68,30 @@ class CollectionManager:
             mode="overwrite",
             message=f"Creating empty folder for collection '{collection.name}'",
         )
-        logger.info(f"📁 Folder for collection '{collection.name}' created.")
+        if not success:
+            raise GitHubAPIError(f"Failed to create folder for collection '{collection.name}'.")
+        logger.info(f"Folder for collection '{collection.name}' created.")
 
     @refresh_collection_list
     def create_collection(self, collection: Collection) -> bool:
+        if collection.format not in SUPPORTED_FORMATS:
+            raise ValueError(
+                f"Unsupported format '{collection.format}'. Must be one of {sorted(SUPPORTED_FORMATS)}."
+            )
+
         if self.collection_exists(name=collection.name):
-            logger.warning(f"⚠️ Collection '{collection.name}' already exists.")
+            logger.warning(f"Collection '{collection.name}' already exists.")
             return False
 
         self.collection_list.append(collection)
         self._persist_collections()
         self.create_collection_folder(collection=collection)
-        logger.info(f"✅ Collection '{collection.name}' created successfully.")
+        logger.info(f"Collection '{collection.name}' created successfully.")
         return True
 
     def _persist_collections(self):
         df = pd.DataFrame([vars(c) for c in self.collection_list])
-        self.git_connection.write_pd_dataframe_github(
+        success = self.git_connection.write_pd_dataframe_github(
             base_path=self.metadata_base_path,
             path=self.metadata_path,
             df=df,
@@ -89,8 +99,11 @@ class CollectionManager:
             mode="overwrite",
             message="Updating collections metadata",
         )
-        logger.info("📄 Collections metadata updated.")
+        if not success:
+            raise GitHubAPIError("Failed to persist collections metadata to GitHub.")
+        logger.info("Collections metadata updated.")
 
+    @refresh_collection_list
     def save_dataframe(
         self,
         df: pd.DataFrame,
@@ -98,11 +111,14 @@ class CollectionManager:
         mode: str = "overwrite",
         message: str = None,
     ) -> bool:
+        if mode not in SUPPORTED_MODES:
+            raise ValueError(f"Unsupported mode '{mode}'. Must be one of {sorted(SUPPORTED_MODES)}.")
+
         if message is None:
             message = f"Saving collection '{collection_name}'"
 
         if not self.collection_exists(collection_name):
-            logger.error(f"❌ Collection '{collection_name}' does not exist.")
+            logger.error(f"Collection '{collection_name}' does not exist.")
             return False
 
         collection = next(c for c in self.collection_list if c.name == collection_name)
@@ -110,22 +126,29 @@ class CollectionManager:
         collection.updated_at = datetime.datetime.now().isoformat()
         self._persist_collections()
 
-        self.git_connection.write_pd_dataframe_github(
-            base_path=collection.base_path,
-            path=collection.path,
-            df=df,
-            format=collection.format,
-            mode=mode,
-            message=message,
-        )
+        try:
+            success = self.git_connection.write_pd_dataframe_github(
+                base_path=collection.base_path,
+                path=collection.path,
+                df=df,
+                format=collection.format,
+                mode=mode,
+                message=message,
+            )
+        except GitHubAPIError as e:
+            logger.error(f"Failed to save data to collection '{collection_name}': {e}")
+            return False
 
-        logger.info(f"✅ Data saved to collection '{collection_name}'.")
-        return True
+        if success:
+            logger.info(f"Data saved to collection '{collection_name}'.")
+        else:
+            logger.error(f"Failed to save data to collection '{collection_name}'.")
+        return success
 
     @refresh_collection_list
     def delete_collection(self, name: str) -> bool:
         if not self.collection_exists(name):
-            logger.error(f"❌ Collection '{name}' does not exist.")
+            logger.error(f"Collection '{name}' does not exist.")
             return False
 
         collection = next(c for c in self.collection_list if c.name == name)
@@ -136,24 +159,25 @@ class CollectionManager:
             self.git_connection.delete_from_github(
                 base_path=collection.base_path,
                 path=collection.path,
+                format=collection.format,
                 message=f"Deleting collection '{name}'",
             )
-            logger.info(f"✅ Collection '{name}' deleted successfully.")
+            logger.info(f"Collection '{name}' deleted successfully.")
             return True
-        except Exception as e:
-            logger.error(f"❌ Failed to delete collection '{name}': {e}")
+        except (FileNotFoundError, GitHubAPIError) as e:
+            logger.error(f"Failed to delete collection '{name}': {e}")
             return False
 
     def delete_dataframe(self, collection_name: str) -> bool:
         if not self.collection_exists(collection_name):
-            logger.error(f"❌ Collection '{collection_name}' does not exist.")
+            logger.error(f"Collection '{collection_name}' does not exist.")
             return False
 
         collection = next(c for c in self.collection_list if c.name == collection_name)
 
         try:
             empty_df = pd.DataFrame()
-            self.git_connection.write_pd_dataframe_github(
+            success = self.git_connection.write_pd_dataframe_github(
                 base_path=collection.base_path,
                 path=collection.path,
                 df=empty_df,
@@ -161,15 +185,19 @@ class CollectionManager:
                 mode="overwrite",
                 message=f"Overwriting collection '{collection_name}' with empty DataFrame",
             )
-            logger.info(f"✅ Collection '{collection_name}' cleared (empty DataFrame written).")
-            return True
-        except Exception as e:
-            logger.error(f"❌ Failed to clear collection '{collection_name}': {e}")
+        except GitHubAPIError as e:
+            logger.error(f"Failed to clear collection '{collection_name}': {e}")
             return False
+
+        if success:
+            logger.info(f"Collection '{collection_name}' cleared (empty DataFrame written).")
+        else:
+            logger.error(f"Failed to clear collection '{collection_name}'.")
+        return success
 
     def read_dataframe(self, collection_name: str) -> pd.DataFrame | None:
         if not self.collection_exists(collection_name):
-            logger.error(f"❌ Collection '{collection_name}' does not exist.")
+            logger.error(f"Collection '{collection_name}' does not exist.")
             return None
 
         collection = next(c for c in self.collection_list if c.name == collection_name)
@@ -180,8 +208,8 @@ class CollectionManager:
                 path=collection.path,
                 format=collection.format,
             )
-            logger.info(f"📥 DataFrame loaded from collection '{collection_name}'.")
+            logger.info(f"DataFrame loaded from collection '{collection_name}'.")
             return df
-        except Exception as e:
-            logger.error(f"❌ Failed to load data from collection '{collection_name}': {e}")
+        except (FileNotFoundError, GitHubAPIError) as e:
+            logger.error(f"Failed to load data from collection '{collection_name}': {e}")
             return None

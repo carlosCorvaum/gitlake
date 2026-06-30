@@ -1,2 +1,6 @@
 .env
 .venv
+.ipynb_checkpoints
+__pycache__/
+*.egg-info/
+.pytest_cache/
