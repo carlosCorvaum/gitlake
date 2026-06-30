@@ -1,10 +1,12 @@
 # 🐙 GitLake
 
-> Um mini data-lake versionado, leve e open-source, usando **GitHub + pandas + requests**
+> Um mini data-lake versionado e leve, usando **GitHub + pandas + requests**
 
 O **GitLake** é um framework simples e poderoso que permite salvar, versionar e gerenciar **coleções de dados** diretamente em repositórios do GitHub.
 
 Ideal para projetos de dados, pipelines, protótipos de machine learning e experimentos que precisam de um **repositório remoto e versionado**, sem a complexidade e o custo de uma infraestrutura em nuvem.
+
+> ⚠️ **GitLake não substitui um data lake de produção** (S3 + Delta Lake/Iceberg, BigQuery, etc.). Não há particionamento, schema-on-read, motor de consulta nem suporte a grandes volumes — a API do GitHub só retorna conteúdo inline para arquivos menores que 1MB. Use para protótipos, datasets pequenos/médios e experimentos que se beneficiam do versionamento do Git.
 
 ---
 
